@@ -18,6 +18,7 @@ int main() {
         {'U', "..-"},  {'V', "...-"}, {'W', ".--"},  {'X', "-..-"},
         {'Y', "-.--"}, {'Z', "--.."}
     };
+// Tested with: Hard working students reap their rewards
 
     string message;
     cout << "Enter a message: ";
