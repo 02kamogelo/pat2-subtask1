@@ -3,6 +3,7 @@
 #include <string>
 #include <cctype>
 using namespace std;
+// Morse Code Translator - Version 1.0
 
 
 int main() {
