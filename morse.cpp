@@ -25,6 +25,7 @@ int main() {
     getline(cin, message);
 
     string fullMorse = "";
+// Final version ready for submission
 
     for (char c : message) {
         if (isalpha(c)) {
