@@ -6,6 +6,8 @@ using namespace std;
 
 int main() {
     // Morse code dictionary
+// Tested with: The quick brown fox jumps over the lazy dog
+
     map<char, string> morse = {
         {'A', ".-"},   {'B', "-..."}, {'C', "-.-."}, {'D', "-.."},
         {'E', "."},    {'F', "..-."}, {'G', "--."},  {'H', "...."},
