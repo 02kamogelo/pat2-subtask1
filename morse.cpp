@@ -4,6 +4,7 @@
 #include <cctype>
 using namespace std;
 
+
 int main() {
     // Morse code dictionary
 // Tested with: The quick brown fox jumps over the lazy dog
